@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jgaffud2024
-- 👀 I’m interested in ... software developmey
+- 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... Javascript Frameworks 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
